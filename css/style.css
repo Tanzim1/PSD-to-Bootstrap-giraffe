@@ -1,0 +1,188 @@
+body{background-image:url(../img/bg.png);}
+.navbar_section{background-color:#ffd338;min-height:100px;}
+.customdropdown{padding:0px 15px;}
+.customdropdown a{background:transparent!important;
+border:none; }
+.customform input{display:none!important;}
+.customform button{background-color:transparent;}
+.navcolor ul li a
+{font-size:18px;
+font-weight:bold;
+color:#fff!important;
+text-transform: capitalize;
+    transition:1s;
+    border-radius:25px;
+    padding:10px 25px!important;
+    font-family:'Dosis',sans-serif;
+    
+    
+}
+.navcolor ul li a:hover{background-color:#f05c5c;}
+.banner{background-image:url(../img/banner.png);
+min-height:500px;
+
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;}
+.bannertext{font-size:60px;
+    font-family:'Dosis',sans-serif;
+    color:#707070;
+    font-weight:bold;
+}
+.bannertextp{color:#1ec0ff;
+font-family:'Dosis',sans-serif;
+font-size:60px;
+font-weight:bold;}
+.margintop{margin-top:300px;}
+.scroll{margin-top:500px;
+font-family:'Lato',sans-serif;
+font-size:18px;
+    color:#d6d6d5;
+    font-weight:normal;
+    text-transform:uppercase;
+    margin-bottom:30px;
+    
+}
+.kid{min-height:550px;
+
+margin-top:px;}
+.kidtitle h1{font-family:'Dosis',sans-serif;
+    font-size:30px;
+    font-weight:bold;
+    color:#333333;
+    text-transform:uppercase;
+ margin-top:100px;
+    
+}
+.kidtitle p{font-family:'Dosis',sans-serif;}
+.kidtitle hr{width:200px;
+border:2px dashed white;
+margin-top:1rem;
+margin-bottom:1rem;
+    
+    
+    
+
+}
+.kidleft p{font-family:'Lato',sans-serif;font-size:12px;line-height:20px;font-style:light;}
+.kidleft hr{width:230px;
+border:2px dashed white;
+margin-left:0;
+}
+.kidright img{border-radius:25px;}
+.educationtype{background-image:url("../img/educationbg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+min-height:600px;}
+.singleimage{margin-top:75px;}
+.singleimage img{border-radius:52px;border:2px solid white;}
+.singleimage p{font-family:'Dosis',sans-serif;
+color:#ffffff;font-weight:bold;font-size:18px;}
+.cardone{min-height:1000px;}
+.card{border-radius:25px;min-height:250px;margin-top:px;}
+.cardtop{background-color:#1ec0ff;min-height:30px;border-top-left-radius:15px;border-top-right-radius:15px;}
+.cardtop p{color:white;font-size:14px;margin-top:px;font-family:'Lato',sans-serif; }
+.cardheading h5{font-family:'Dosis',sans-serif;color:#1ec0ff;}
+.topheading h1{text-transform:uppercase;font-family:'Dosis',sans-serif;font-weight:bold;font-size:32px;}
+.cardheading p{font-family:'Lato',sans-serif;font-style:light;}
+.coursecard{margin-top:100px;}
+.price img{margin-top:-60px;margin-left:150px;}
+.bottomcard{min-height:60px;background-color:#56d47e;margin-top:80px;border-radius:40px;}
+.bottomcard img{margin-top:20px;}
+.memories{background-image: url("../img/memoriesbg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+min-height:1050px;}
+.marginmemories h1{margin-top:150px;}
+.kidsmargin{margin-top:80px;}
+.viewmore{margin-left:px;margin-top:80px;}
+.teachers{background-image:url("..img/bg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+    min-height:1400px;}
+.toptext{margin-top:80px;}
+.hyperlink{font-family:'Lato',sans-serif;color:#1ec0ff;font-weight:lighter;font-size:16px;}
+.quote{font-family:'Lato',sans-serif;font-weight:lighter; }
+.quotesecond{font-family:'Lato',sans-serif;font-weight:lighter;color:#4c4c4c;}
+.hashtag{font-family:'Lato',sans-serif;color:#1ec0ff;font-weight:lighter;font-size:16px;}
+.name of teacher{font-family:'Dosis',sans-serif;color:#1ec0ff;}
+.techersecription h1{font-family:'Dosis',sans-serif;font-size:18px;}
+ .green{color:#56d47e;}
+.blue{color:#1ec0ff;}
+.red{color:#f05c5c;}
+.yellow{color:#ffd338;}
+.underline{text-decoration:underline;font-weight:bold;margin-top:10px;}
+.achievements{background-image:url("../img/achbg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    min-height:400px;
+}
+.memoriestitle h1{
+    font-family:'Dosis',sans-serif;
+    font-size:30px;
+    font-weight:bold;
+    color:#a5e8ba;
+    text-transform:uppercase;
+    margin-top:100px;
+    }
+.memoriestitle p{color:#989898;font-family:'Dosis',sans-serif;font-size:70px;margin-top:-38px;}
+.memoriestitle hr{width:230px;
+border:2px dashed white;
+}
+.statistics{margin-top:-70px;margin-left:70px;}
+.statistics h1{color:#ffffff;font-family:'Dosis',sans-serif;font-weight:bold;letter-spacing:3px; font-size:45px;}
+.statistics img{margin-top:-45px;}
+.statistics p{font-family:'Dosis',sans-serif;text-transform:uppercase;color:#ffffff;font-size:20px;margin-top:-20px;}
+.latestnews{background-image:url"(../img/bg.png)";
+background-size:cover;
+background-repeat: no-repeat;
+background-position:center;
+min-height:800px;}
+.newstitle h1{font-family:'Dosis',sans-serif;text-transform:uppercase;color:black;font-size:30px;font-weight:bold;}
+.newstitle hr{width:200px;
+border:2px dashed white;
+margin-left:20px;}
+.right{margin-right:300px;}
+.datecircle{height:120px;width:110px;background-color:#1ec0ff;border:2px solid white;color:#ffffff;border-radius:65px;}
+.datecircle p{font-family:'Dosis',sans-serif;text-transform:uppercase;color:#ffffff;font-size:;font-weight:bold;}
+.dateleft{margin-left:32px;font-size:42px;line-height:px;margin-top:20px;}
+.datebottom{margin-left:36px;margin-top:-20px;}
+.celebrationnight p{font-weight:bold;font-family:'Dosis',sans-serif;margin-left:-170px;margin-top:35px;}
+.activitiesdescription{font-weight:bold;font-family:'Dosis',sans-serif;line-height:15px;}
+.font{font-size:17px;margin-top:-20px;}
+.activitiesimage {margin-left:-100px;}
+.celebrations p{font-weight:bold;font-family:'Dosis',sans-serif;margin-top:-27px;margin-top:10px;}
+.left{margin-left:-450px;}
+.topone{margin-top:-40px;}
+.toptwo{margin-top:-100px;}
+.socialmedia{background-image:url(../img/white.png);background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    min-height:700px;}
+.logo{margin-top:330px;}
+.socialmediatitle h1{font-family:'Dosis',sans-serif;text-transform:uppercase;font-size:20px;font-weight:100;margin-top:330px;color;}
+.socialmediatitle hr{width:200px;
+border:2px dashed #ffcb5d;
+margin-left:0;}
+.color{color:#ffcb5d;}
+.colortwo{color:#56d47e;}
+.contact hr{width:200px;
+border:2px dashed #56d47e;
+margin-left:0;}
+.colorthree{color:#f05c5c;}
+.newsletter hr{width:200px;
+border:2px dashed #f05c5c;;
+margin-left:0;}
+.giraffedescription{margin-top:40px;}
+.giraffedescription p{font-family:'Dosis',sans-serif;font-size:14px;}
+.kidimage{margin-top:60px;}
+.contactinfo{margin-top:40px;}
+.contactinfo p{font-family:'Dosis',sans-serif;font-size:14px;}
+footer{min-height:80px;background-color:#ffd338;}
+.border{border-right:1px solid #ffffff;}
+.copyright p{color:#ffffff;font-family:'Dosis',sans-serif;font-size:18px;font-weight:bold;margin-left:160px; margin-top:22px;}
